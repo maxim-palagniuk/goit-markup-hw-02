@@ -1,0 +1,12 @@
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-button {
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+
+.hero-button:hover, .hero-button:focus {
+    background-color: #404BBF;
+}
