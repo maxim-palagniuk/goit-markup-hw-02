@@ -2,7 +2,7 @@
     font-family: raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16667;
+    line-height: 1.33;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
@@ -17,6 +17,12 @@
     color: #2E2F42;
 }
 
+.header-nav-link {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
 .header-nav-link:hover, .header-nav-link:focus {
     color: #404BBF;
 }
@@ -28,8 +34,9 @@
 
 }
 
-.header-address-item {
-    font-size: 16px;
+.header-address-link {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .header-address-link:hover, .header-address-link:focus {

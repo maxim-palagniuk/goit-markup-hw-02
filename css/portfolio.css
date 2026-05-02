@@ -1,3 +1,15 @@
 .portfolio .section-title {
     text-align: center;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+}
+
+.portfolio .subtitle {
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.portfolio .text {
+    letter-spacing: 0.02em;
 }

@@ -1,3 +1,26 @@
+.team {
+    background-color: #F4F4FD;
+}
+
+.team .section-title {
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
+
+.team .subtitle {
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.team .text {
+    letter-spacing: 0.02em;
+}
+
 .team .section-title, .team .subtitle, .team .text{
     text-align: center;
 }
+
+.team .item {
+    background-color: #ffffff;
+}
+

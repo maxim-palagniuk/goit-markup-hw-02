@@ -3,13 +3,13 @@
 }
 
 .footer-logo {
-    font-family: raleway, sans-serif;
+    font-family: 'raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16667;
+    line-height: 1.33;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #FFFFFF;
+    color: #F4F4Fd;
 }
 
 .footer-logo span {
@@ -17,5 +17,6 @@
 }
 
 .footer .text {
-    color: #FFFFFF;
+    color: #F4F4Fd;
+    letter-spacing: 0.02em;
 }

@@ -1,8 +1,8 @@
 body {
-    font-family: roboto, sans-serif;
+    font-family: 'roboto', sans-serif;
     line-height: 1.5;
-    width: 1440px;
     background-color: #FFFFFF;
+    color: #434455;
 
 }
 
@@ -11,6 +11,8 @@ body {
     font-weight: 700;
     font-size: 56px;
     text-align: center;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 ul, ol {
